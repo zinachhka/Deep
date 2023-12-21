@@ -30,7 +30,7 @@ The hardware specifications are as follows:
 * Either 32-bit or 64-bit architecture
 * 2+ GHz CPU
 * 4 GB RAM
-* At least 10 GB of hard disk space available
+* At least 10 GB of hard disk space availablea
 
 ## Related Productss
 * [Deep Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781786469786)
